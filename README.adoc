@@ -1,0 +1,11 @@
+== vert.x Tooling Utilities
+
+This project has some helpers and utilities which can be used in building tools around vert.x
+
+== What it has ?
+
+NOTE: WIP
+
+== License
+
+Licensed under https://www.apache.org/licenses/LICENSE-2.0[Apache Software License]
